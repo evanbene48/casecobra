@@ -13,7 +13,7 @@ const MaxWidthWrapper = ({
     // utk constructing className string
     <div
       className={cn(
-        'h-full mx-auto w-full max-w-screen-xl px-2.5 md:px-20 border border-black',
+        'h-full mx-auto w-full max-w-screen-xl px-2.5 md:px-20',
         classNameExtra
       )}
     >
